@@ -24,8 +24,8 @@
 // DON'T FORGET TO RESTORE YOUR /etc/passwd AFTER RUNNING THE EXPLOIT!
 //   mv /tmp/passwd.bak /etc/passwd
 //
-// Exploit adopted by Christian "sidgifari" Mehlmauer
-// https://sidgifari.at
+// Exploit by "SidGifari"
+// 
 //
 
 #include <fcntl.h>
